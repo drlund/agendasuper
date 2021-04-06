@@ -37,7 +37,7 @@
 
   <footer class="footer mt-auto py-3">
     <div class="container" align="center">
-      <span class="text-muted">Agenda Super &copy; - Todos os direitos reservados - 2021 - Ultima atualização: 06/04/2021 - Feito por <a href="https://github.com/drlund/agendasuper" target="_blank"><b>Paulo César Souza Pereira</b></a></span>
+      <span class="text-muted">Agenda Super &copy; - Todos os direitos reservados - 2021 - Ultima atualização: 06/04/2021 - Feito por <a href="https://github.com/drlund/agendasuper" target="_blank" class="text-muted"><b>Paulo César Souza Pereira</b></a></span>
     </div>
   </footer>
 
