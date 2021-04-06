@@ -5,12 +5,19 @@
 	<link rel="stylesheet" href="css/bootstrap.css">
   
 	<script src="https://kit.fontawesome.com/5ba0c75967.js" crossorigin="anonymous"></script>
+  <style type="text/css">
+    .xbootstrap {
+      color: #327CCB;
+      background-color: #fff;
+      text-shadow: -1px -1px 1px #111, 2px 2px 1px #FA9F29;
+    }
+  </style>
 </head>
 <body>
 
   <div class="container" style="margin-top: 10px">
     <div class="page-header" align="left">
-    <h1>Agenda de Contatos</h1>
+    <h1 class="xbootstrap"><b>Agenda de Contatos</b></h1>
     </div>
   </div>
 
@@ -28,7 +35,7 @@
       </ul>
   </div>
 
-<div class="container" align="center" style="margin-top: 50px">
+<div class="container" align="center" style="margin-top: 56px">
   <p><img src="imagens/agenda-contatos-logo.png"  width="400" height=341></p>
 </div>
 
@@ -40,6 +47,6 @@
       <span class="text-muted">Agenda Super &copy; - Todos os direitos reservados - 2021 - Ultima atualização: 06/04/2021 - Feito por <a href="https://github.com/drlund/agendasuper" target="_blank" class="text-muted"><b>Paulo César Souza Pereira</b></a></span>
     </div>
   </footer>
-
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </body>
 </html>
